@@ -1,3 +1,5 @@
-uday
+Uday
 20 year
-btech cse iot
+B Tech CSE
+8.5 cgpa
+IOT
